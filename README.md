@@ -13,7 +13,7 @@ calculator/
 │   ├── css/
 │   │   └── style.css      # Stylesheet for the calculator
 │   └── js/
-│       └── script.js      # Optional JavaScript for dynamic behavior
+│       └── script.js      # JavaScript for dynamic behavior
 │
 └── templates/
     └── calculator.html    # HTML template for the calculator UI
